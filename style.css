@@ -25,16 +25,22 @@
 
 .Card_1{
     border: 1px solid black;
+    width: 30%;
+    float: left;
 }
 
 
 .Card_2{
     border: 1px solid black;
+    width: 30%;
+    float: left;
 }
 
 
 .Card_3{
     border: 1px solid black;
+    width: 30%;
+    float: left;
 }
 
 .card_title{
