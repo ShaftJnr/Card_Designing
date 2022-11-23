@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Font";
+    src: url(./Fraunces/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family: "Font-2";
+    src: url(./Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family: "Font-3";
+    src: url(./Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "Font-4";
+    src: url(./Montserrat/Montserrat-VariableFont_wght.ttf);
+}
