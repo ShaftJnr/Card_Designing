@@ -1,3 +1,6 @@
+*{
+   box-sizing: border-box; 
+}
 @font-face {
     font-family: "Font";
     src: url(./Fraunces/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
@@ -19,30 +22,28 @@
 }
 
 .Container{
-    margin: 0;
-    box-sizing: border-box;
+    margin: 20% 40% ;
+    width: 50%;
 }
 
 .Card_1{
     border: 1px solid black;
-    width: 30%;
+    width: 25%;
     float: left;
 }
 
 
 .Card_2{
     border: 1px solid black;
-    width: 30%;
-    float: left;
-}
-
-
-.Card_3{
-    border: 1px solid black;
-    width: 30%;
+    width: 25%;
     float: left;
 }
 
 .card_title{
     border: 1px solid black;
+    text-align: center;
+}
+
+.float{
+    clear: both;
 }
