@@ -16,10 +16,6 @@
     src: url(./Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
 }
 
-@font-face {
-    font-family: "Font-4";
-    src: url(./Montserrat/Montserrat-VariableFont_wght.ttf);
-}
 
 .Container{
     margin: 20% 40% ;
@@ -31,6 +27,11 @@
     width: 25%;
     float: left;
 }
+.card_text{
+    text-align: center;
+    font-family: "Font-2", "Sans-serif";
+    font-size: 14px;
+}
 
 
 .Card_2{
@@ -39,9 +40,18 @@
     float: left;
 }
 
+.card_text2{
+    text-align: center;  
+    font-family: "Font-2", "Sans-serif";
+    font-size: 14px; 
+}
+
 .card_title{
     border: 1px solid black;
     text-align: center;
+    font-family: "Font-3", "Sans-serif";
+    font-weight: 400;
+    font-size: 30px;
 }
 
 .float{
