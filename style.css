@@ -17,3 +17,18 @@
     font-family: "Font-4";
     src: url(./Montserrat/Montserrat-VariableFont_wght.ttf);
 }
+
+.Container{
+    margin: 0;
+}
+
+.Card_1{
+    border: 1px solid black;
+}
+
+.Card_2{
+    border: 1px solid black;
+}
+.Card_3{
+    border: 1px solid black;
+}
