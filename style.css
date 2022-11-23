@@ -20,15 +20,23 @@
 
 .Container{
     margin: 0;
+    box-sizing: border-box;
 }
 
 .Card_1{
     border: 1px solid black;
 }
 
+
 .Card_2{
     border: 1px solid black;
 }
+
+
 .Card_3{
+    border: 1px solid black;
+}
+
+.card_title{
     border: 1px solid black;
 }
