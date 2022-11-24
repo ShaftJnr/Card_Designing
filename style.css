@@ -30,7 +30,6 @@ h2{
 }
 
 .Card_1{
-    border: 1px solid black;
     width: 25%;
     float: left;
 }
@@ -42,9 +41,10 @@ h2{
     background-color: white;
 }
 
-
+.card2container{
+    padding: 10px;
+}
 .Card_2{
-    border: 1px solid black;
     width: 25%;
     float: left;
 }
@@ -58,12 +58,12 @@ h2{
 }
 
 .card_title{
-    border: 1px solid black;
     text-align: center;
     font-family: "Font-3", "Sans-serif";
     font-weight: 400;
     font-size: 30px;
     background-color: rgb(30, 201, 124);
+    border-radius: 5px;
 }
 
 .float{
